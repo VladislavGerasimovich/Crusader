@@ -114,6 +114,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bd9780af014d644983a011e890947aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _damage: 1
   _speed: 5
-  _nameOfAim: AimTwo
+  Damage: 1
+  Direction: {x: 0, y: 0, z: 0}
